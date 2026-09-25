@@ -275,7 +275,7 @@ st.info(
 st.divider()
 
 team_details = """
-**Group:** 3 | **Members:** Pratham Patel, Karan Vora
+**Group:** 9 | **Members:** Pratham Patel, Karan Vora
 
 **Pratham Patel**  
 (25012250610041)  
