@@ -269,3 +269,16 @@ st.info(
     "and perfect thermal contact between layers. Material k values are "
     "typical room-temperature figures; check a data sheet for design work."
 )
+
+# Team Information
+st.divider()
+st.markdown("### 👥 **Team Members**")
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("**Pratham Patel**")
+    st.markdown("*25012250610041*")
+
+with col2:
+    st.markdown("**Karan Vora**")
+    st.markdown("*25012250610043*")
