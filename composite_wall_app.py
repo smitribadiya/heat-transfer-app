@@ -286,7 +286,6 @@ Diploma in Information Technology (Sem 3) | **Institution:** LJ Polytechnic
 Diploma in Information Technology (Sem 3) | **Institution:** LJ Polytechnic
 
 **Project:** 1D Composite Wall Heat Transfer Calculator  
-**Team Name:** TrickMasters_DG
 """
 
 st.markdown(team_details)
