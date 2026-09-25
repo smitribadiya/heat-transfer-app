@@ -270,15 +270,23 @@ st.info(
     "typical room-temperature figures; check a data sheet for design work."
 )
 
+
 # Team Information
 st.divider()
-st.markdown("### 👥 **Team Members**")
-col1, col2 = st.columns(2)
 
-with col1:
-    st.markdown("**Pratham Patel**")
-    st.markdown("*25012250610041*")
+team_details = """
+**Group:** 3 | **Members:** Pratham Patel, Karan Vora
 
-with col2:
-    st.markdown("**Karan Vora**")
-    st.markdown("*25012250610043*")
+**Pratham Patel**  
+(25012250610041)  
+Diploma in Information Technology (Sem 3) | **Institution:** LJ Polytechnic
+
+**Karan Vora**  
+(25012250610043)  
+Diploma in Information Technology (Sem 3) | **Institution:** LJ Polytechnic
+
+**Project:** 1D Composite Wall Heat Transfer Calculator  
+**Team Name:** TrickMasters_DG
+"""
+
+st.markdown(team_details)
